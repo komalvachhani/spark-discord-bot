@@ -1,0 +1,22 @@
+{
+  "name": "spark-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komalvachhani/spark-discord-bot.git"
+  },
+  "author": "Komal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komalvachhani/spark-discord-bot/issues"
+  },
+  "homepage": "https://github.com/komalvachhani/spark-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
